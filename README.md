@@ -276,7 +276,7 @@
 
 <a name="classification" />
 
-## Classification
+## Classifications
 
 - [Does Balancing Classes Improve Classifier Performance?](http://www.win-vector.com/blog/2015/02/does-balancing-classes-improve-classifier-performance/)
 
